@@ -32,10 +32,7 @@ Este projeto foi desenvolvido com objetivo de criar a estrutura que vai possibil
 
   
 </div>
-<div align="right">
 
-  [Índice :point_up:](#índice)
-</div>
 
 ---
 <div id="contato">
@@ -50,10 +47,6 @@ Alguns meios de contato:
 </div>
 </div>
 
-<div align="right">
-
-  [Índice :point_up:](#índice)
-</div>
 
 ---
 <!--<div id="creditos">
